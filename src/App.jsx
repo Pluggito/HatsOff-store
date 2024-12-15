@@ -1,11 +1,12 @@
-
-import Hello from './Frontend/Components/Hero/Hello'
+import Home from './Frontend/Components/Home';
 
 function App() {
 
 
   return (
-    <Hello />
+    <>
+    <Home />
+    </>
   )
 }
 
