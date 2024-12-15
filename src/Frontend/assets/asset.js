@@ -1,4 +1,4 @@
-import logo1 from "./IMG_0449.PNG";
+import logo_icon from "./IMG_0449-No-bg.png";
 import img1 from "./IMG_0450.PNG";
 import img2 from "./IMG_0491.PNG";
 import img3 from "./IMG_0610.JPG";
@@ -14,7 +14,7 @@ import home_img from "./Logo.png";
 
 
 export const assets = {
-    logo1,
+    logo_icon,
     home_img  
 }
 
